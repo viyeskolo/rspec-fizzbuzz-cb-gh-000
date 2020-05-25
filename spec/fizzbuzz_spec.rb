@@ -1,15 +1,15 @@
 require_relative './spec_helper.rb'
 # We are missing a 'require_relative' here. Check README.md for instructions and an explanation!
 
-def
+def fizzbuzz
   if fizzbuzz == 3
 puts "Fizz"
 
-  end
-  it 'returns "Buzz" when the number is divisible by 5' do
-    fizz_5 = fizzbuzz(5)
+elsif
+  
+    if fizzbuzz == 5
+      puts ""
 
-    expect(fizz_5).to eq("Buzz")
   end
   it 'returns "FizzBuzz" when the number is divisible by 3 and 5' do
     fizz_15 = fizzbuzz(15)
