@@ -8,5 +8,5 @@ elsif int % 5 == 0
 elsif int () == 0
   "error"
   end
-  
+
 end
