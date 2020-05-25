@@ -6,7 +6,7 @@ def fizzbuzz
 puts "Fizz"
 
 elsif
-  
+
     if fizzbuzz == 5
       puts ""
 
